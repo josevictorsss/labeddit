@@ -1,4 +1,4 @@
-# Labefy Musics - Frontend
+# Labeddit
 
 ## ✨ Tecnologias
 
